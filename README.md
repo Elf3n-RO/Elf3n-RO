@@ -11,9 +11,9 @@
 
 <br/>
 
-[![YouTube](https://img.shields.io/badge/YouTube-@elfenplay-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@elfenplay)
 [![GitHub](https://img.shields.io/badge/GitHub-Elf3n--RO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Elf3n-RO)
-[![Email](https://img.shields.io/badge/Email-elegsuper@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elegsuper@gmail.com)
+[![YouTube](https://img.shields.io/badge/YouTube-@elfenplay-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@elfenplay)
+[![Email](https://img.shields.io/badge/Gmail-elegsuper@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elegsuper@gmail.com)
 
 </div>
 
@@ -73,22 +73,4 @@ Canal **Elfen**: análisis, WoE y contenido de **Ragnarok Online**.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Elf3n-RO&bg_color=0d1117&color=58a6ff&line=58a6ff&point=8b949e&area=true&hide_border=true" alt="Activity graph" />
 </div>
 
----
 
-## En contacto
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-Elf3n--RO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Elf3n-RO)
-[![YouTube](https://img.shields.io/badge/YouTube-@elfenplay-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@elfenplay)
-[![Email](https://img.shields.io/badge/Gmail-elegsuper@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elegsuper@gmail.com)
-
-<br/>
-
-**Código de día · Ragnarok de noche**
-
-<img src="https://komarev.com/ghpvc/?username=Elf3n-RO&label=visitas&style=flat-square&color=58a6ff" alt="Profile views" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a2332,100:0D1117&height=100&section=footer" alt="Footer" />
