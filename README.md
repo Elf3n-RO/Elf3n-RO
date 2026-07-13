@@ -5,12 +5,15 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&width=680&height=100&lines=Hola%2C+soy+Oleg+Kuznetsov;Estudiante+de+Software+%40+ULEAM;Dev+%2B+Creador+de+contenido" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a2332,100:0D1117&height=180&section=header&text=Elf3n-RO&fontSize=52&fontColor=58A6FF&fontAlignY=35&desc=Oleg%20Kuznetsov%20%C2%B7%20Dev%20%2B%20Elfen&descAlignY=55&descSize=18&descColor=8B949E" alt="Header" />
 
-### `Elf3n-RO` · desarrollador en formación · creador en YouTube
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=620&height=45&lines=Estudiante+de+Ingenier%C3%ADa+de+Software+%40+ULEAM;Frontend+%C2%B7+Full-stack+%C2%B7+Hackathons;An%C3%A1lisis+RO+en+YouTube+%40elfenplay" alt="Typing" />
+
+<br/>
 
 [![YouTube](https://img.shields.io/badge/YouTube-@elfenplay-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@elfenplay)
 [![GitHub](https://img.shields.io/badge/GitHub-Elf3n--RO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Elf3n-RO)
+[![Email](https://img.shields.io/badge/Email-elegsuper@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elegsuper@gmail.com)
 
 </div>
 
@@ -18,33 +21,61 @@
 
 ## Sobre mí
 
-Estudiante de **Ingeniería de Software** en la [ULEAM](https://www.uleam.edu.ec/). Me gusta construir cosas reales: apps web, prototipos en hackathons y sistemas con un poco de IA.
+Hola, soy **Oleg Kuznetsov** (`Elf3n-RO`). Estudio **Ingeniería de Software** en la [ULEAM](https://www.uleam.edu.ec/) y me gusta pasar de la teoría a cosas que se puedan usar: apps web, prototipos de hackathon y sistemas con un toque de IA.
 
-Fuera del código, soy **Elfen** en YouTube — contenido y análisis de **Ragnarok Online** (MOTR / WoE / clips).
+Fuera del IDE soy **Elfen** — creo **análisis y contenido de Ragnarok Online** (MOTR, WoE, clips) en YouTube.
 
-- Enfoque: frontend, full-stack web y proyectos de hackathon  
-- Stack que más uso: HTML · CSS · JavaScript · Vue · TypeScript · Python · SQL  
-- Comunidad: ULEAM · hackathons (HackIAthon, TAWS Agentic Scale)
+| | |
+| :--- | :--- |
+| **Enfoque** | Frontend, full-stack web, proyectos de hackathon |
+| **Stack** | HTML · CSS · JavaScript · Vue · TypeScript · Python · SQL |
+| **Comunidad** | ULEAM · HackIAthon · TAWS Agentic Scale |
 
 ---
 
 ## Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,python,postgres,git,github,vscode" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,python,postgres,git,github,vscode&perline=10" alt="Tech stack" />
 </p>
 
 ---
 
 ## Proyectos destacados
 
-| Proyecto | Qué es | Stack |
-| :--- | :--- | :--- |
-| [**Hackathon Agentic Scale (TAWS)**](https://github.com/Elf3n-RO/Hackathon-Agentic-Scale-by-TAWS-11.07) | Track 1 — hackathon de agentes / escala | Vue · TypeScript · SQL |
-| [**HackIAthon — Alerta de Emergencias**](https://github.com/Elf3n-RO/HackIAthon---Sistema-de-Alerta-Temprana-de-Ingresos-a-Emergencias) | Sistema de alerta temprana de ingresos a emergencias | Python · HTML · CSS |
-| [**Plataforma de cursos**](https://github.com/Elf3n-RO/Plataforma-cursos) | Plataforma web de cursos (proyecto de Aplicaciones Web) | JavaScript · HTML · CSS |
-| [**Proyecto POO — Grupo 6**](https://github.com/Elf3n-RO/Proyect-POO-ULEAM---Group-6---2025) | Proyecto grupal de Programación Orientada a Objetos · ULEAM | T-SQL · Python · HTML |
-| [**Tareas Aplicaciones Web**](https://github.com/Elf3n-RO/Aplicaciones-Web---4-semestre-ULEAM) | Prácticas y tareas del 4.º semestre | HTML · CSS · JS |
+<table>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/Elf3n-RO/Hackathon-Agentic-Scale-by-TAWS-11.07">Hackathon Agentic Scale (TAWS)</a></h3>
+      Track 1 — hackathon de agentes / escala<br/>
+      <code>Vue</code> <code>TypeScript</code> <code>SQL</code>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/Elf3n-RO/HackIAthon---Sistema-de-Alerta-Temprana-de-Ingresos-a-Emergencias">HackIAthon — Alerta de Emergencias</a></h3>
+      Sistema de alerta temprana de ingresos a emergencias<br/>
+      <code>Python</code> <code>HTML</code> <code>CSS</code>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3><a href="https://github.com/Elf3n-RO/Plataforma-cursos">Plataforma de cursos</a></h3>
+      Plataforma web de cursos (Aplicaciones Web)<br/>
+      <code>JavaScript</code> <code>HTML</code> <code>CSS</code>
+    </td>
+    <td>
+      <h3><a href="https://github.com/Elf3n-RO/Proyect-POO-ULEAM---Group-6---2025">Proyecto POO — Grupo 6</a></h3>
+      Proyecto grupal de POO · ULEAM<br/>
+      <code>T-SQL</code> <code>Python</code> <code>HTML</code>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <h3><a href="https://github.com/Elf3n-RO/Aplicaciones-Web---4-semestre-ULEAM">Tareas Aplicaciones Web</a></h3>
+      Prácticas y tareas del 4.º semestre · ULEAM<br/>
+      <code>HTML</code> <code>CSS</code> <code>JavaScript</code>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -52,9 +83,13 @@ Fuera del código, soy **Elfen** en YouTube — contenido y análisis de **Ragna
 
 Canal **Elfen**: análisis, WoE y contenido de **Ragnarok Online**.
 
+<div align="center">
+
 <a href="https://www.youtube.com/@elfenplay">
-  <img src="https://img.shields.io/badge/Suscr%C3%ADbete-Elfen-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Elfen" />
+  <img src="https://img.shields.io/badge/Suscr%C3%ADbete-Elfen%20%40elfenplay-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Elfen" />
 </a>
+
+<br/><br/>
 
 <!-- BEGIN YOUTUBE-CARDS -->
 <a href="https://www.youtube.com/shorts/Spe0z2VJhpg">
@@ -68,33 +103,41 @@ Canal **Elfen**: análisis, WoE y contenido de **Ragnarok Online**.
 </a>
 <!-- END YOUTUBE-CARDS -->
 
+</div>
+
 ---
 
 ## Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Elf3n-RO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elf3n-RO&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Elf3n-RO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elf3n-RO&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elf3n-RO&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Elf3n-RO&bg_color=0d1117&color=58a6ff&line=58a6ff&point=8b949e&area=true&hide_border=true" alt="Activity graph" />
+</div>
+
 ---
 
 ## En contacto
 
-- GitHub: [Elf3n-RO](https://github.com/Elf3n-RO)  
-- YouTube: [youtube.com/@elfenplay](https://www.youtube.com/@elfenplay)  
-- Email: [elegsuper@gmail.com](mailto:elegsuper@gmail.com)
-
----
-
 <div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Elf3n--RO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Elf3n-RO)
+[![YouTube](https://img.shields.io/badge/YouTube-@elfenplay-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@elfenplay)
+[![Email](https://img.shields.io/badge/Gmail-elegsuper@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elegsuper@gmail.com)
+
+<br/>
 
 **Código de día · Ragnarok de noche**
 
-<img src="https://komarev.com/ghpvc/?username=Elf3n-RO&style=flat-square&color=58a6ff" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Elf3n-RO&label=visitas&style=flat-square&color=58a6ff" alt="Profile views" />
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a2332,100:0D1117&height=100&section=footer" alt="Footer" />
