@@ -66,11 +66,6 @@ Canal **Elfen**: análisis, WoE y contenido de **Ragnarok Online**.
 ## Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Elf3n-RO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elf3n-RO&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elf3n-RO&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </div>
 
