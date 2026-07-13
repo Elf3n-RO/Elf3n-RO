@@ -7,7 +7,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a2332,100:0D1117&height=180&section=header&text=Elf3n-RO&fontSize=52&fontColor=58A6FF&fontAlignY=35&desc=Oleg%20Kuznetsov%20%C2%B7%20Dev%20%2B%20Elfen&descAlignY=55&descSize=18&descColor=8B949E" alt="Header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=620&height=45&lines=Estudiante+de+Ingenier%C3%ADa+de+Software+%40+ULEAM;Frontend+%C2%B7+Full-stack+%C2%B7+Hackathons;An%C3%A1lisis+RO+en+YouTube+%40elfenplay" alt="Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=620&height=45&lines=Estudiante+de+Ingenier%C3%ADa+de+Software+%40+ULEAM;Frontend+%C2%B7+Full-stack+%C2%B7+Hackathons" alt="Typing" />
 
 <br/>
 
