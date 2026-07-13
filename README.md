@@ -41,44 +41,6 @@ Fuera del IDE soy **Elfen** — creo **análisis y contenido de Ragnarok Online*
 
 ---
 
-## Proyectos destacados
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/Elf3n-RO/Hackathon-Agentic-Scale-by-TAWS-11.07">Hackathon Agentic Scale (TAWS)</a></h3>
-      Track 1 — hackathon de agentes / escala<br/>
-      <code>Vue</code> <code>TypeScript</code> <code>SQL</code>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/Elf3n-RO/HackIAthon---Sistema-de-Alerta-Temprana-de-Ingresos-a-Emergencias">HackIAthon — Alerta de Emergencias</a></h3>
-      Sistema de alerta temprana de ingresos a emergencias<br/>
-      <code>Python</code> <code>HTML</code> <code>CSS</code>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3><a href="https://github.com/Elf3n-RO/Plataforma-cursos">Plataforma de cursos</a></h3>
-      Plataforma web de cursos (Aplicaciones Web)<br/>
-      <code>JavaScript</code> <code>HTML</code> <code>CSS</code>
-    </td>
-    <td>
-      <h3><a href="https://github.com/Elf3n-RO/Proyect-POO-ULEAM---Group-6---2025">Proyecto POO — Grupo 6</a></h3>
-      Proyecto grupal de POO · ULEAM<br/>
-      <code>T-SQL</code> <code>Python</code> <code>HTML</code>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <h3><a href="https://github.com/Elf3n-RO/Aplicaciones-Web---4-semestre-ULEAM">Tareas Aplicaciones Web</a></h3>
-      Prácticas y tareas del 4.º semestre · ULEAM<br/>
-      <code>HTML</code> <code>CSS</code> <code>JavaScript</code>
-    </td>
-  </tr>
-</table>
-
----
-
 ## YouTube — [@elfenplay](https://www.youtube.com/@elfenplay)
 
 Canal **Elfen**: análisis, WoE y contenido de **Ragnarok Online**.
