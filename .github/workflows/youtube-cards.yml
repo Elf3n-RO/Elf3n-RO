@@ -1,0 +1,29 @@
+name: GitHub Readme YouTube Cards
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  youtube-cards:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: DenverCoder1/github-readme-youtube-cards@main
+        with:
+          channel_id: UC0ZnrXOY22tm3QbyGz0WapA
+          max_videos: 3
+          comment_tag_name: YOUTUBE-CARDS
+          background_color: "#0d1117"
+          title_color: "#ffffff"
+          stats_color: "#dedede"
+          border_radius: 8
+          card_width: 250
+          max_title_lines: 2
+          lang: es
+          commit_message: "docs(readme): actualizar cards de YouTube"
