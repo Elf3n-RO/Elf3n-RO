@@ -54,9 +54,7 @@ Canal **Elfen**: análisis, WoE y contenido de **Ragnarok Online**.
 <br/><br/>
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![На скилле, или мисс клик?](https://ytcards.demolab.com/?id=Spe0z2VJhpg&title=%D0%9D%D0%B0+%D1%81%D0%BA%D0%B8%D0%BB%D0%BB%D0%B5%2C+%D0%B8%D0%BB%D0%B8+%D0%BC%D0%B8%D1%81%D1%81+%D0%BA%D0%BB%D0%B8%D0%BA%3F&lang=es&timestamp=1776298135&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=8 "На скилле, или мисс клик?")](https://www.youtube.com/shorts/Spe0z2VJhpg)
-[![MOTR WoE 2.0 - 28.02.2026, Dungeon Master](https://ytcards.demolab.com/?id=rVA_UUiaT6o&title=MOTR+WoE+2.0+-+28.02.2026%2C+Dungeon+Master&lang=es&timestamp=1772954763&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=8 "MOTR WoE 2.0 - 28.02.2026, Dungeon Master")](https://www.youtube.com/watch?v=rVA_UUiaT6o)
-[![MOTR ragnarok online - Новый Год 2025-2026 !!!](https://ytcards.demolab.com/?id=zK_exIqO6SA&title=MOTR+ragnarok+online+-+%D0%9D%D0%BE%D0%B2%D1%8B%D0%B9+%D0%93%D0%BE%D0%B4+2025-2026+%21%21%21&lang=es&timestamp=1767268082&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=8 "MOTR ragnarok online - Новый Год 2025-2026 !!!")](https://www.youtube.com/watch?v=zK_exIqO6SA)
+
 <!-- END YOUTUBE-CARDS -->
 
 </div>
